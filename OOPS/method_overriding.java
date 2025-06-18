@@ -14,7 +14,8 @@ package OOPS;
             System.out.println("meow");
         }
 
-        void eat(){
+         void eat(){
+            super.eat();
             System.out.println("cat is eating");
         }
 
@@ -35,7 +36,6 @@ public class method_overriding {
         bb.sound();
 
         
-
 
     }
    
