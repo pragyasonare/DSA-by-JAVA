@@ -19,7 +19,7 @@ class dog extends  mammals{
     }
 }
 
-public class single_Inheritance {
+public class single_multi_Inheritance {
       public static void main(String[] args) {
         dog dd= new dog();
         dd.bark();
