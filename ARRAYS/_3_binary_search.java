@@ -15,6 +15,7 @@ public class _3_binary_search {
             if (numbers[mid] >key ){
                 end = mid - 1 ;
             }
+            
         }
         return -1 ;
     }
