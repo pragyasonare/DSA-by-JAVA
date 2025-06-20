@@ -8,7 +8,7 @@ public class _3_largest_string {
             if ( largest .compareTo(fruits[i]) < 0){
                 //here compareTo. in function which compare string
                 //if string equal then = 0
-                //if str1 <str2 = <0
+                //if str1 <str2 = <0 
                 //if str1 >str2 = >0
                 largest = fruits[i];
             }
