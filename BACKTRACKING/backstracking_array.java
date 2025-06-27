@@ -1,8 +1,7 @@
 package BACKTRACKING;
 
 public class backstracking_array {
-
-      public static void changeArr(int arr[] , int i , int value){
+     public static void changeArr(int arr[] , int i , int value){
 
         //basecase
         if (i== arr.length){
@@ -28,5 +27,4 @@ public class backstracking_array {
         printarr(arr);
 
     }
-    
 }
