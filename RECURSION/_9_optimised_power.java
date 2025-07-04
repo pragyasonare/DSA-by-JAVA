@@ -1,3 +1,5 @@
+package RECURSION ;
+
 public class _9_optimised_power {
 
      public static int  optimised(int x,int n){
