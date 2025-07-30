@@ -1,6 +1,6 @@
 public class Binary_string {
 
-     boolean isBinary(String s) {
+     public static boolean isBinary(String s) {
         // Your code here
         for(int i=0 ; i<s.length();i++){
             char ch = s.charAt(i);
@@ -11,6 +11,15 @@ public class Binary_string {
            
         }
         return true;
+    }
+
+    public static void main(String[] args) {
+        String str = "776372" ; //false 
+      //String str = "1010101" ; //true
+
+
+        boolean ans  = isBinary(str) ;
+        System.out.println(ans);
     }
     
 }
