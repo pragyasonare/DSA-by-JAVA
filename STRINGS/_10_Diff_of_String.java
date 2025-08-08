@@ -21,9 +21,9 @@ public class _10_Diff_of_String {
         
     }
 
-    public static void main(String[] args) {inos
+
         
         
-    }
+    
     
 }
