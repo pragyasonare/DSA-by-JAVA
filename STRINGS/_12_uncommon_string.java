@@ -1,6 +1,6 @@
 public class _12_uncommon_string {
 
-    class Solution {
+    
     public String[] uncommonFromSentences(String s1, String s2) { 
         String[] words = (s1 + " " + s2).split(" ");
         Map<String, Integer> map = new HashMap<>();
@@ -20,6 +20,6 @@ public class _12_uncommon_string {
 
 
     }
-}
+
     
 }
