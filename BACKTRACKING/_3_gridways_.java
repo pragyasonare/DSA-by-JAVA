@@ -17,6 +17,7 @@ public class _3_gridways_ {
     public static void main(String[] args) {
         int n =3;
         int m =3 ;
+        System.out.println("--------------------------------------");
         System.out.println(gridWays(0,0,n,m));
     }
     
