@@ -18,6 +18,7 @@ public class _704_Binary_search {
                 left = mid + 1 ;
             }
         }
+        
         return -1 ;
         
     }
